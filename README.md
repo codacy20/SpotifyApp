@@ -1,12 +1,15 @@
-# Spotify Accounts Authentication Examples
+# Spotify Collabrative Playlist
 
-This project contains basic demos showing the different OAuth 2.0 flows for [authenticating against the Spotify Web API](https://developer.spotify.com/web-api/authorization-guide/).
+This project is a humble attempt for creating a collabrative playlist and a test for my JS knowledge ++ This project contains basic demos showing the different OAuth 2.0 flows for [authenticating against the Spotify Web API](https://developer.spotify.com/web-api/authorization-guide/).
 
-These examples cover:
+These project cover:
 
 * Authorization Code flow
 * Client Credentials flow
 * Implicit Grant flow
+* Auto complete for searching artists and songs
+* Implicit Grant to playlists
+
 
 ## Installation
 
